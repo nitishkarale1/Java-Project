@@ -6,6 +6,6 @@ public class demo2
 	{
 		System.out.println("hi");
 		
-		System.out.println("Have a good day.");
+		System.out.println("Have a great day.");
 	}
 }
